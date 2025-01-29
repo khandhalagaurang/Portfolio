@@ -5,7 +5,7 @@ export default function Project() {
   return (
     <div className='container'>
       <div className='Title'>
-        <h6>My Recent Works</h6>
+        <h6  className=' text-center'>My Recent Works</h6>
         <h1>Projects</h1></div>
       <div className='p-maindiv col-11'>
         <div className="card justify-content-center cardcolor text-white" style={{ width: '20rem' }}>

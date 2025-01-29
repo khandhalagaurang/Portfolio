@@ -5,7 +5,7 @@ export default function Resume() {
     return (
         <div className='container'>
             <div className='Title'>
-                <h6>The skills I have</h6>
+                <h6  className=' text-center'>The skills I have</h6>
                 <h1>Resume</h1>
             </div>
 

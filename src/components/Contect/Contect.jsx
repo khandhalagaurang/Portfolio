@@ -11,7 +11,7 @@ export default function Contect() {
   return (
     <div className='container' id='contect'>
       <div className='Title'>
-        <h6>Get in touch</h6>
+        <h6 className=' text-center'>Get in touch</h6>
         <h1>Contact Me</h1>
       </div>
       <div className='content-maindiv'>
