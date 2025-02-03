@@ -6,7 +6,6 @@
     justify-content: center;
     align-items: center;
     gap: 10px;
-    padding: 50px 0px;
 }
 
 .Name {
@@ -192,45 +191,3 @@
         font-size: 14px;
     }
 }
-
-/* For screens with max width 320px */
-/* @media (max-width: 320px) {
-    .container {
-        padding: 10px 0px;
-        gap: 10px;
-    }
-
-    .img1 {
-        width: 50%;
-    }
-
-    .social-media {
-        font-size: 20px;
-        gap: 12px;
-    }
-
-    .btn1,
-    .btn2 {
-        font-size: 12px;
-        padding: 5px 8px;
-    }
-
-    .icons {
-        font-size: 16px;
-        gap: 8px;
-    }
-
-    .mainbox {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .subbox {
-        display: flex;
-        flex-direction: column;
-    }
-
-    .box p {
-        font-size: 14px;
-    }
-} */
